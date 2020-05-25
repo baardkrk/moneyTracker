@@ -3,3 +3,7 @@ data/*
 
 # set up own environment
 venv
+
+.idea
+*/__pychache__
+
