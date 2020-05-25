@@ -1,0 +1,5 @@
+# Don't add personal informaiton
+data/*
+
+# set up own environment
+venv
