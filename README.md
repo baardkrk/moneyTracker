@@ -16,3 +16,15 @@ adding parent and child categories, for example:
     - Netflix
     - HBO
     - Crunchyroll
+- Food
+  - Groceries
+  - Restaurants
+- Home
+  - Communal cost/rent
+  - Electricity
+  - Water
+  - Internet
+  - Phone
+- Loans
+  - Study loan
+  - Housing loan
